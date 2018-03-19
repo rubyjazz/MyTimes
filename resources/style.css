@@ -28,3 +28,22 @@ nav span {
 nav a {
   color: black;
 }
+div {
+  border: solid 1px black;
+}
+.content {
+  border: solid 1px black;
+  display: flex;
+}
+.large-column {
+  width: 630px;
+
+}
+.medium-column {
+  width: 300px;
+
+}
+.small-column {
+  width: 240px;
+
+}
