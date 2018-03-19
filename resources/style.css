@@ -34,6 +34,8 @@ div {
 .content {
   border: solid 1px black;
   display: flex;
+  justify-content: center;
+  margin-top: 10px;
 }
 .large-column {
   width: 630px;
@@ -47,3 +49,9 @@ div {
   width: 240px;
 
 }
+/* #image-content {
+  background-image: image(./resources/images/img-story-main.png);
+}
+#earth-img {
+
+}*/
